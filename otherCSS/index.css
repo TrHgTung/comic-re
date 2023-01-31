@@ -1,0 +1,13 @@
+.header-img {
+    height: 50%;
+    width: 100%;
+    filter: brightness(20%);
+}
+
+.header-img-container {
+    height: auto;
+}
+
+* {
+    scroll-behavior: smooth;
+}
